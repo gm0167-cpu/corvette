@@ -1,2 +1,0 @@
-# corvette
-Created with CodeSandbox

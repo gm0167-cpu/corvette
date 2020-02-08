@@ -1,0 +1,46 @@
+* {
+  background-color: red;
+  text-align: center;
+  font-family: "Lemonada", cursive;
+}
+li {
+  text-align: left;
+}
+
+h3 {
+  text-align: left;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.central {
+  font-family: "Sriracha", cursive;
+}
+/*notes*/
+img {
+  height: 330px;
+  width: 400px;
+}
+
+/* unvisited link */
+a:link {
+  color: #ff0000;
+}
+
+/* visited link */
+a:visited {
+  color: #00ff00;
+}
+
+/* mouse over link */
+a:hover {
+  color: #ff00ff;
+}
+
+/* selected link */
+a:active {
+  color: #0000ff;
+}
